@@ -20,6 +20,8 @@
 ## Contact Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gate-tangchartsiri/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://www.gate.tang@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo&logoColor=white)](https://drive.google.com/file/d/11jElbqxsvbfnFRT8vZt9aYEtO7Xlmvwx/view?usp=sharing)
+
 <!--
 **gateTang/gateTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
