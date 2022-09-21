@@ -3,12 +3,21 @@
 ### About Me
 🧑‍🎓 I am Gate Tangchartsiri, a passionate computer engineer with a strong understanding of **software-hardware integration and data analytics** pursuing a Bachelor's Degree in Computer Engineering at the Georiga Institute of Technology.
 
-🌐 I enjoy creating Internet of Things modules and applications. So far, I have implemented the MQTT protocol into ESP devices, Firebase Cloud Databses, and website hosting on Heroku. In 2022, I have learnt and looking to explore more on Bluetooth devices for Tire Pressure Monitor Systems (TPSM) and RF and LTE for data communication. 
+🌐 I enjoy creating Internet of Things modules and applications. So far, I have implemented the **MQTT protocol into ESP devices**, **Firebase Cloud Databses**, and **website hosting on Heroku**. In 2022, I have learnt and looking to explore more on **BLE for Tire Pressure Monitor Systems (TPSM)** and **RF** and **LTE** for data communication. 
 
-📈 Outside of engineering, I have a strong passion for investing. I have built minimum-variance frontier and time-series momentum-based investing algorithms. 
+📈 Outside of engineering, I have a strong passion for investing. I have built **minimum-variance frontier** and **time-series momentum-based investing algorithms**. 
 
 💼 I am seeking 2023 Summer internship in either Embedded Systems or Quantitative Analysis.
 
+## Skills 🛠️
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+## Contact Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gate-tangchartsiri/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://www.gate.tang@gmail.com)
 <!--
