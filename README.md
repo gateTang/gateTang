@@ -3,7 +3,7 @@
 ### About Me
 🧑‍🎓 I am Gate Tangchartsiri, a passionate computer engineer with a strong understanding of **software-hardware integration and data analytics** pursuing a Bachelor's Degree in Computer Engineering at the Georiga Institute of Technology.
 
-🌐 I enjoy creating Internet of Things modules and applications. So far, I have implemented the **MQTT protocol into ESP devices**, **Firebase Cloud Databses**, and **website hosting on Heroku**. In 2022, I have learnt and looking to explore more on **BLE for Tire Pressure Monitor Systems (TPSM)** and **RF** and **LTE** for data communication. 
+🌐 I enjoy creating Internet of Things modules and applications. So far, I have implemented the **MQTT protocol into ESP devices**, **Backend as a Service (BaaS)** platforms like **Firebase Cloud Databses**, and **website hosting on Heroku**. In 2022, I have learnt and looking to explore more on **BLE for Tire Pressure Monitor Systems (TPSM)** and **RF** and **LTE** for data communication. 
 
 📈 Outside of engineering, I have a strong passion for investing. I have built **minimum-variance frontier** and **time-series momentum-based investing algorithms**. 
 
