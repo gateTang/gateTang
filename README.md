@@ -1,13 +1,7 @@
 ## Hi there 👋
 
 ### About Me
-🧑‍🎓 I am Gate Tangchartsiri, a passionate computer engineer with a strong understanding of **software-hardware integration and Internet of Things** pursuing a Bachelor's Degree in Computer Engineering at the Georiga Institute of Technology.
-
-🌐 I enjoy creating Internet of Things modules and applications. So far, I have implemented the **MQTT protocol into ESP devices**, **Backend as a Service (BaaS)** platforms like **Firebase Cloud Databses**, and **website hosting on Heroku**. From 2022 to 2023, I have taken an interest and applied AWS services like IoT Core and edge devices like Beagle Bones to automate and digitalize machinery in the Invention Studio/Workshop at Georgia Tech.
-
-📈 Outside of engineering, I have a strong passion for investing. I have built **minimum-variance frontier** and **time-series momentum-based investing algorithms**. 
-
-💼 I am seeking 2024 Summer Internship in Product Management and IoT.
+Aspiring embedded or cloud engineer with an interest in the development of cloud-based platforms and IoT infrastructures. With experience in cloud tools and computer architecture, I am motivated to use my experiences with AWS microservices, IoT hardware, and computer hardware to create scalable and efficient solutions.
 
 ## Skills 🛠️
 ### Programming Languages
