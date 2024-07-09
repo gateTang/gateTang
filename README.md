@@ -17,10 +17,8 @@ Aspiring embedded or cloud engineer with an interest in the development of cloud
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Contact Me
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo&logoColor=white)](https://drive.google.com/file/d/1wIbV7jd4EUvmDL1N57r1fWplze89gAl9/view?usp=sharing)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gate-tangchartsiri/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://www.gate.tang@gmail.com)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gate_tangchartsiri)
 
 <!--
 **gateTang/gateTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
